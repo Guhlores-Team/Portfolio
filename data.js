@@ -53,7 +53,7 @@ const PROJECTS = [
     tags: ["HTML", "CSS", "JavaScript"],
     image: "",
     live: "",
-    code: "https://github.com/SteveGuhlore/portfolio"
+    code: "https://github.com/Guhlores-Team/portfolio"
   },
   {
     title: "Stock Count Reconciliation",
@@ -61,7 +61,7 @@ const PROJECTS = [
     tags: ["Excel", "Data Entry", "Python", "Reconciliation"],
     image: "images/stock-count-reconciliation.png",
     live: "",
-    code: "https://github.com/SteveGuhlore/stock-count-reconciliation"
+    code: "https://github.com/Guhlores-Team/stock-count-reconciliation"
   },
   {
     title: "Capstone Project (replace me)",
